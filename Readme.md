@@ -1,1 +1,7 @@
-Esse foi um projeto feito para converter a distancia em quilometros para anos luz usando JavaScript
+Projeto criado para converter a distância em quilometros para anos luz
+Prática focada em JavaScrpit 
+
+Tecnologias usadas:
+- HTML5
+- CSS3
+-JavaScript
